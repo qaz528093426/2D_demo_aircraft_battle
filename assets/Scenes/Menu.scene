@@ -580,7 +580,7 @@
     "_string": "button",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 28.4375,
+    "_actualFontSize": 28.5,
     "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -1089,8 +1089,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 49.340401785714285,
-      "height": 50.4
+      "width": 49.34761984306469,
+      "height": 50.400000000000006
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1122,7 +1122,7 @@
     "_string": "提示01！",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 17.0625,
+    "_actualFontSize": 17.1,
     "_fontSize": 12,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
@@ -1221,8 +1221,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 40.675652472527474,
-      "height": 50.4
+      "width": 40.68160207648026,
+      "height": 50.400000000000006
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1254,7 +1254,7 @@
     "_string": "提示02!",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 17.0625,
+    "_actualFontSize": 17.1,
     "_fontSize": 12,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
